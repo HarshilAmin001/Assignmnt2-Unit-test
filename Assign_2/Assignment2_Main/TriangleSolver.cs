@@ -16,7 +16,7 @@ namespace Assignment2_Main
             if (h1 < 1 || h2 < 1 || h3 < 1)
             {
                 triangleType = "Not Recognized";
-                //Console.WriteLine("Given inputs cannot form a triangle");
+
             }
             else
             {
@@ -38,7 +38,7 @@ namespace Assignment2_Main
                 }
                 else
                 {
-                    triangleType = "Given inputs cannot form a triangle";
+                    triangleType = "Given Values cannot form a triangle";
                 }
             }
             return triangleType;

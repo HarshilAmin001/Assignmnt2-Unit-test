@@ -33,7 +33,7 @@ namespace Assign_2_Test
         [Test]
         public void check_Triangle_3_5_11()
         {
-            Assert.AreEqual(TriangleSolver.Scan(3, 5, 11), "Given inputs cannot form a triangle");
+            Assert.AreEqual(TriangleSolver.Scan(3, 5, 11), "Given Values cannot form a triangle");
 
         }
         [Test]
