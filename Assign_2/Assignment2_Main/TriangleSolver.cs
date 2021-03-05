@@ -9,11 +9,11 @@ namespace Assignment2_Main
     public class TriangleSolver
     {
 
-        public static string Analyze(int h1, int h2, int h3)
+        public static string Scan(int h1, int h2, int h3)
         {
             String triangleType = "Not Recognized";
 
-            if (h1 <= 0 || h2 <= 0 || h3 <= 0)
+            if (h1 < 1 || h2 < 1 || h3 < 1)
             {
                 triangleType = "Given inputs cannot form a triangle";
                 Console.WriteLine("Given inputs cannot form a triangle");

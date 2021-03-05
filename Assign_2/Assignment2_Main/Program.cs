@@ -34,12 +34,13 @@ namespace Assignment2_Main
                 if (n == 1)
                 {
                     Console.WriteLine("Enter three numbers for triangle");
+                   
                     int x = int.Parse(Console.ReadLine());
                     int y = int.Parse(Console.ReadLine());
                     int z = int.Parse(Console.ReadLine());
 
 
-                    String val = TriangleSolver.Analyze(x, y, z);
+                    String val = TriangleSolver.Scan(x, y, z);
                     Console.WriteLine("Given Triangle is " + val);
                 }
                 else

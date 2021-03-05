@@ -3,7 +3,6 @@ C:\Users\HARSHIL AMIN\Desktop\MSD Classes\Software Quality\Assign_2\Assignment2_
 C:\Users\HARSHIL AMIN\Desktop\MSD Classes\Software Quality\Assign_2\Assignment2_Main\bin\Debug\Assignment2_Main.pdb
 C:\Users\HARSHIL AMIN\Desktop\MSD Classes\Software Quality\Assign_2\Assignment2_Main\bin\Debug\nunit.framework.dll
 C:\Users\HARSHIL AMIN\Desktop\MSD Classes\Software Quality\Assign_2\Assignment2_Main\bin\Debug\nunit.framework.xml
-C:\Users\HARSHIL AMIN\Desktop\MSD Classes\Software Quality\Assign_2\Assignment2_Main\obj\Debug\Assignment2_Main.csprojAssemblyReference.cache
 C:\Users\HARSHIL AMIN\Desktop\MSD Classes\Software Quality\Assign_2\Assignment2_Main\obj\Debug\Assignment2_Main.csproj.CoreCompileInputs.cache
 C:\Users\HARSHIL AMIN\Desktop\MSD Classes\Software Quality\Assign_2\Assignment2_Main\obj\Debug\Assignment2_Main.csproj.CopyComplete
 C:\Users\HARSHIL AMIN\Desktop\MSD Classes\Software Quality\Assign_2\Assignment2_Main\obj\Debug\Assignment2_Main.exe

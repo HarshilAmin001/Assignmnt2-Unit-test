@@ -13,9 +13,9 @@ namespace Assign_2_Test
     {
 
         [Test]
-        public void checkTriangle()
+        public void checkEquiTriangle()
         {
-            Assert.AreEqual(TriangleSolver.Analyze(10, 10, 10), "Equilateral");
+            Assert.AreEqual(TriangleSolver.Scan(10, 10, 10), "Equilateral");
 
         }
     }
