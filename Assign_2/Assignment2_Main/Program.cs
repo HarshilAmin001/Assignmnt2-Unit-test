@@ -23,9 +23,9 @@ namespace Assignment2_Main
                 Menu();
                 int n = int.Parse(Console.ReadLine());
 
-                if (n <= 0 || n > 2)
+                if (n <= 0 || n > 2 )
                 {
-                    Console.WriteLine("Invalid Entry!!");
+                    Console.WriteLine("Invalid option!!");
                     Menu();
                     n = int.Parse(Console.ReadLine());
 
@@ -33,15 +33,18 @@ namespace Assignment2_Main
                 else
                 if (n == 1)
                 {
-                    Console.WriteLine("Enter three numbers for triangle");
-                   
+                    Console.WriteLine("Enter three sides values for triangle");
+
+                    Console.WriteLine("Enter Side1");
                     int x = int.Parse(Console.ReadLine());
+                    Console.WriteLine("Enter Side2");
                     int y = int.Parse(Console.ReadLine());
+                    Console.WriteLine("Enter Side3");
                     int z = int.Parse(Console.ReadLine());
 
 
                     String val = TriangleSolver.Scan(x, y, z);
-                    Console.WriteLine("Given Triangle is " + val);
+                    Console.WriteLine("Given triangle is " + val);
                 }
                 else
                 {

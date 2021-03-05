@@ -15,7 +15,7 @@ namespace Assign_2_Test
         [Test]
         public void checkEquiTriangle()
         {
-            Assert.AreEqual(TriangleSolver.Scan(10, 10, 10), "Equilateral");
+            Assert.AreEqual(TriangleSolver.Scan(20, 20, 20), "Equilateral");
 
         }
         [Test]
@@ -25,7 +25,7 @@ namespace Assign_2_Test
 
         }
         [Test]
-        public void checkScaleneTriangle()
+        public void checkScaleTriangle()
         {
             Assert.AreEqual(TriangleSolver.Scan(20, 15, 30), "Scalene");
 
